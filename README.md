@@ -3,3 +3,4 @@ End-to-end financial data analysis project on S&amp;P 500 stocks. Performed data
 
 it is on intial stage
 wwwwww
+kkkkkkk
