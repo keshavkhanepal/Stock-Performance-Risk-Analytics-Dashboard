@@ -181,7 +181,7 @@ The dashboard consists of **3 interactive pages** with full cross-filtering:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/sp500-stock-analysis.git
+git clone https://github.com/keshavkhanepal/sp500-stock-analysis.git
 cd sp500-stock-analysis
 
 # Install dependencies
